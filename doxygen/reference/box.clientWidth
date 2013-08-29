@@ -1,0 +1,4 @@
+@include box.width
+@virtual borderLeft
+@virtual borderRight
+@virtual verticalScrollbarWidth

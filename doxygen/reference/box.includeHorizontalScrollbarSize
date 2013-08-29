@@ -1,0 +1,3 @@
+@include object.hasOverflowClip
+@include layer.hasOverlayScrollbars
+@include style.overflowX

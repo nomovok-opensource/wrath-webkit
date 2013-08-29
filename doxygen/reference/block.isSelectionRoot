@@ -1,0 +1,12 @@
+@include object.node
+@include object.isBody
+@include object.isRoot
+@include object.hasOverflowClip
+@include object.isRelPositioned
+@include object.isFloatingOrPositioned
+@virtual isInlineBlockOrInlineTable
+@include object.hasTransform
+@include object.hasReflection
+@include object.hasMask
+@include box.isWritingModeRoot
+@include view.selectionStart

@@ -1,0 +1,5 @@
+@include box.flipForWritingMode
+@include tablesection.table
+for table(): @include table.colElement
+for cell: @include tablecell.paintBackgroundsBehindCell
+for cell: paint()

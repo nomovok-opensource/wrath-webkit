@@ -1,0 +1,5 @@
+@include table.collapseBorders
+@include style.borderEnd
+@include style.isLeftToRightDirection
+@include object.firstChild
+for child table sections: @include tablesection.outerBorderEnd

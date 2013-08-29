@@ -1,0 +1,4 @@
+@include style.borderStyleForColorProperty
+@include style.colorIncludingFallback
+@include style.insideLink
+@include style.getCachedPseudoStyle

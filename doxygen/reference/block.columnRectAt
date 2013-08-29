@@ -1,0 +1,6 @@
+@virtual borderBefore
+@virtual paddingBefore
+@include block.columnGap
+@include block.logicalLeftOffsetForContent
+@include box.contentLogicalWidth
+@include object.isHorizontalWritingMode

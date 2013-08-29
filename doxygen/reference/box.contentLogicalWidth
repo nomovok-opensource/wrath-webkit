@@ -1,0 +1,3 @@
+@include style.isHorizontalWritingMode
+@include box.contentWidth
+@include box.contentHeight

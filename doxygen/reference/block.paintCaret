@@ -1,0 +1,6 @@
+frame()->selection()
+frame()->page()->dragCaretController()
+frame()->settings()->caretBrowsingEnabled()
+@include block.offsetForContents
+frame()->selection()->paintCaret()
+frame()->selection()->paintDragCaret()

@@ -1,0 +1,7 @@
+@include style.isHorizontalWritingMode
+@include style.isLeftToRightDirection
+@virtual borderEnd
+@virtual borderStart
+@include style.isFlippedBlocksWritingMode
+@virtual borderBefore
+@virtual borderAfter

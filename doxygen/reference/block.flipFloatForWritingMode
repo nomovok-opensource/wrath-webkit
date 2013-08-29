@@ -1,0 +1,6 @@
+@include style.isFlippedBlocksWritingMode
+@include object.isHorizontalWritingMode
+@include box.height
+@include block.yPositionForFloatIncludingMargin
+@include box.width
+@include block.xPositionForFloatIncludingMargin

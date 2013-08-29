@@ -1,0 +1,6 @@
+@include object.isRelPositioned
+@include boxmodelobject.relativePositionOffset
+@include object.isInline
+@include object.isReplaced
+@include style.position
+@include box.locationOffsetIncludingFlipping

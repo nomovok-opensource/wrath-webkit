@@ -1,0 +1,7 @@
+@include object.hasLayer
+@include style.maskBoxImage
+@include style.maskLayers
+@include style.effectiveZoom
+TRANSPARENCY LAYER
+@include box.paintFillLayers
+@include boxmodelobject.paintNinePieceImage

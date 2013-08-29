@@ -1,0 +1,2 @@
+@include object.isFloating
+@include object.isPositioned

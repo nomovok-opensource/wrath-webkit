@@ -1,0 +1,3 @@
+@include table.collapseBorders
+@include table.outerBorderBefore
+@include block.borderBefore

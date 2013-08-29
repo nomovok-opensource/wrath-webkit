@@ -1,0 +1,20 @@
+@include object.hasBoxDecorations
+@virtual paintBoxDecorations
+@include object.hasColumns
+@include block.paintColumnRules
+@virtual paintMask
+@include object.hasOverflowClip
+@include layer.scrolledContentOffset
+@include block.paintColumnContents
+@include block.paintContents
+@include block.paintSelection
+@include block.paintFloats
+@include object.hasOutline
+@include style.visibility
+@include object.paintOutline
+@include block.inlineElementContinuation
+@include object.containingBlock
+containingblock @include block.addContinuationWithOutline
+inlinerenderer @include object.paintOutline
+@include block.paintContinuationOutlines
+@include block.paintCaret

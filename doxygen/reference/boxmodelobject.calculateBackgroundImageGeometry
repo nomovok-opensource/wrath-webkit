@@ -1,0 +1,15 @@
+@virtual borderLeft
+@virtual borderRight
+@virtual borderTop
+@virtual borderBottom
+@virtual paddingLeft
+@virtual paddingRight
+@virtual paddingTop
+@virtual paddingBottom
+@include object.isRoot
+@include box.width
+@include box.height
+@virtual marginLeft
+@virtual marginTop
+@virtual viewRect
+@include boxmodelobject.calculateFillTileSize

@@ -1,0 +1,10 @@
+@include style.visibility
+@include box.x
+@include box.y
+@include box.minYVisualOverflow
+@include box.maxYVisualOverflow
+@include replaced.isSelected
+m_inlineBoxWrapper
+@include object.maximalOutlineSize
+@include box.minXVisualOverflow
+@include box.maxXVisualOverflow

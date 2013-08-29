@@ -1,0 +1,11 @@
+@virtual shouldPaintSelectionGaps
+@include block.logicalLeftSelectionOffset
+@include block.logicalRightSelectionOffset
+@include block.selectionGaps
+@include object.enclosingLayer
+@include object.hasLayer
+@include box.flipForWritingMode
+@include object.localToContainerQuad
+@include layer.renderer
+@include layer.scrolledContentOffset
+@include layer.addBlockSelectionGapsBounds

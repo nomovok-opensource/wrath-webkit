@@ -1,0 +1,3 @@
+@include object.selectionState
+@include style.visibility
+@include block.isSelectionRoot

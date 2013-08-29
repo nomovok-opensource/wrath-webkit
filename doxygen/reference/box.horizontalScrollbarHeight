@@ -1,0 +1,2 @@
+@include box.includeHorizontalScrollbarSize
+@include layer.horizontalScrollbarHeight

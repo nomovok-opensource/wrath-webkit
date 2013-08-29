@@ -1,0 +1,8 @@
+Layer::renderer
+Layer::renderer @include object.style
+Layer::renderer->style() @include style.resize
+Layer::renderer @include box.borderBoxRect
+Layer::m_resizer
+Layer::hasOverlayScrollbars()
+Layer::m_vBar
+Layer::m_hBar

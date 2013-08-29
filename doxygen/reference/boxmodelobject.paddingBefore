@@ -1,0 +1,3 @@
+@include style.paddingBefore
+@include object.containingBlock
+containing block: logical width

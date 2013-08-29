@@ -1,0 +1,20 @@
+@include boxmodelobject.paintNinePieceImage
+@include style.visitedDependentColor
+@include style.borderTopIsTransparent
+@include style.borderBottomIsTransparent
+@include style.borderRightIsTransparent
+@include style.borderLeftIsTransparent
+@include style.borderTopStyle
+@include style.borderBottomStyle
+@include style.borderLeftStyle
+@include style.borderRightStyle
+@include style.borderTopWidth
+@include style.borderRightWidth
+@include style.borderLeftWidth
+@include style.borderBottomWidth
+@include style.isHorizontalWritingMode
+@include style.hasBorderRadius
+@include style.getRoundedBorderFor
+ROUNDED RECT CLIP used
+@include object.drawLineForBoxSide
+@include object.drawArcForBoxSide

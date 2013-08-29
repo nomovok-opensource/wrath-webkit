@@ -1,0 +1,12 @@
+@include box.contentWidth
+@include box.contentHeight
+@virtual borderLeft
+@virtual borderTop
+@virtual paddingLeft
+@virtual paddingTop
+m_imageResource
+@include style.colorSpace
+m_altText
+CSSPropertyColor: @include style.visitedDependentColor
+@include style.font
+@virtual paintIntoRect

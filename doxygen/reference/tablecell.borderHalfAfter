@@ -1,0 +1,3 @@
+@include tablecell.collapsedAfterBorder
+@include tablecell.table
+for table(): @include style.isFlippedBlocksWritingMode

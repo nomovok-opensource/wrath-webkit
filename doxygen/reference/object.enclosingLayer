@@ -1,0 +1,3 @@
+@include object.hasLayer
+@include boxmodelobject.layer
+@include object.parent

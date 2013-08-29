@@ -1,0 +1,10 @@
+@include object.hasOutline
+@include style.outlineWidth
+@include style.outlineStyle
+CSSPropertyOutlineColor: @include style.visitedDependentColor
+@include style.outlineOffset
+@include style.outlineStyleIsAuto
+@include object.hasOutlineAnnotation
+@include theme.supportsFocusRing
+@include object.paintFocusRing
+@include object.drawLineForBoxSide

@@ -1,0 +1,20 @@
+@include box.width
+@include box.height
+m_positionedObjects
+CLIP OUT used
+@include object.isBody
+@include object.isRoot
+@include object.containingBlock
+m_floatingObjects
+@virtual isBlockFlow
+@include object.hasColumns
+@include object.hasTransform
+@include style.columnSpan
+@include box.logicalHeight
+@include block.logicalLeftSelectionOffset
+@include block.logicalRightSelectionOffset
+@include object.childrenInline
+@include block.inlineSelectionGaps
+@include block.blockSelectionGaps
+@include object.selectionState
+@include block.blockSelectionGap

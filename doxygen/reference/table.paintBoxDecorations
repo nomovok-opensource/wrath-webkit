@@ -1,0 +1,15 @@
+@include box.width
+@include box.height
+@include table.subtractCaptionRect
+@include boxmodelobject.paintBoxShadow
+@include object.style
+@include object.isRoot
+@include box.paintRootBoxFillLayers
+@include object.isBody
+document()->documentElement()->renderer()->hasBackground()
+@include box.paintFillLayers
+CSSPropertyBackgroundColor: @include style.visitedDependentColor
+@include style.backgroundLayers
+@include style.hasBorder
+@include table.collapseBorders
+@include boxmodelobject.paintBorder

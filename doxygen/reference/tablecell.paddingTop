@@ -1,0 +1,5 @@
+@include block.paddingTop
+@include object.isHorizontalWritingMode
+@include style.writingMode
+@include tablecell.intrinsicPaddingBefore
+@include tablecell.intrinsicPaddingAfter

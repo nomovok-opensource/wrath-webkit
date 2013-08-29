@@ -1,0 +1,7 @@
+@include tablecell.table
+for table(): @include table.currentBorderStyle
+@include tablecell.collapsedLeftBorder
+@include tablecell.collapsedRightBorder
+@include tablecell.collapsedTopBorder
+@include tablecell.collapsedBottomBorder
+@include object.drawLineForBoxSide

@@ -1,0 +1,15 @@
+@include view.layoutStateEnabled
+@include view.layoutState
+@include box.x
+@include box.y
+@include style.position
+@include boxmodelobject.layer
+@include layer.relativePositionOffset
+@include object.container
+@include object.hasLayer
+@include layer.transform
+@virtual offsetFromContainer
+For container: @include style.preserves3D
+@include style.preserves3D
+@include object.shouldUseTransformFromContainer
+@include object.getTransformFromContainer

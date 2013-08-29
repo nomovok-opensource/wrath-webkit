@@ -1,0 +1,7 @@
+@include style.isHorizontalWritingMode
+@include style.isFlippedBlocksWritingMode
+@include table.outerBorderBefore
+@include table.outerBorderAfter
+@include style.isLeftToRightDirection
+@include table.outerBorderEnd
+@include table.outerBorderStart

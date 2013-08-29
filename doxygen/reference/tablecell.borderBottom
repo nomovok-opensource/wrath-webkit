@@ -1,0 +1,4 @@
+@include tablecell.table
+for table(): @include table.collapseBorders
+@include tablecell.borderHalfBottom
+@include block.borderBottom

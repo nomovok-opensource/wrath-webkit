@@ -1,0 +1,11 @@
+@virtual hasControlClip
+@include object.hasOverflowClip
+@include layer.isSelfPaintingLayer
+@virtual paintObject
+@virtual controlClipRect
+@virtual overflowClipRect
+@include style.hasBorderRadius
+@include box.width
+@include box.height
+@include style.getRoundedBorderFor
+NORMAL CLIP used

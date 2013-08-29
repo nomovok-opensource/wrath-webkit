@@ -1,0 +1,8 @@
+@include object.selectionState
+@include block.firstLineBox
+@include box.logicalHeight
+@include block.logicalLeftSelectionOffset
+@include block.logicalRightSelectionOffset
+@include block.firstRootBox
+@include block.blockSelectionGap
+@include object.isHorizontalWritingMode

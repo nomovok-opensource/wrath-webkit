@@ -1,0 +1,6 @@
+@include table.collapseBorders
+m_head
+m_firstBody
+m_foot
+for first section: @include tablesection.outerBorderBefore
+@include style.borderBefore

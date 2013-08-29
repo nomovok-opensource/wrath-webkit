@@ -1,0 +1,5 @@
+@include object.isHorizontalWritingMode
+@virtual borderLeft
+@virtual paddingLeft
+@virtual borderTop
+@virtual paddingTop

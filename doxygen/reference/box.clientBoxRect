@@ -1,0 +1,4 @@
+@include box.clientLeft
+@include box.clientTop
+@include box.clientWidth
+@include box.clientHeight

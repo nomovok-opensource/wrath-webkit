@@ -1,0 +1,5 @@
+@include style.visibility
+@include box.width
+@include box.height
+@include table.subtractCaptionRect
+@include box.paintMaskImages

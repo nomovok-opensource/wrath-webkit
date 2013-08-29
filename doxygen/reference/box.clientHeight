@@ -1,0 +1,4 @@
+@include box.height
+@virtual borderTop
+@virtual borderBottom
+@include box.horizontalScrollbarHeight

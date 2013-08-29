@@ -1,0 +1,5 @@
+@include boxmodelobject.layer
+@include object.firstChild
+for all child table cells: @include tablecell.paintBackgroundsBehindCell
+for all child boxes: @include boxmodelobject.hasSelfPaintingLayer
+for all child boxes: paint()

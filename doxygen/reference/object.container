@@ -1,0 +1,3 @@
+@include object.parent
+@include object.isText
+@include style.position

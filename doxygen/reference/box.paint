@@ -1,0 +1,4 @@
+@include box.x
+@include box.y
+@include object.firstChild
+for all children: paint()

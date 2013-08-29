@@ -1,0 +1,5 @@
+@include style.writingMode
+@include style.paddingTop
+@include style.paddingBottom
+@include style.paddingLeft
+@include style.paddingRight

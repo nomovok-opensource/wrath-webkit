@@ -1,0 +1,7 @@
+@include replaced.isSelected
+m_inlineBoxWrapper
+@include box.width
+@include box.height
+For m_inlineBoxWrapper: @include style.isFlippedBlocksWritingMode
+For m_inlineBoxWrapper: @include box.logicalBottom
+For m_inlineBoxWrapper: @include box.logicalTop

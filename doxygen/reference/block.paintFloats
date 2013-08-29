@@ -1,0 +1,4 @@
+m_floatingObjects
+@include block.flipFloatForWritingMode
+@include block.xPositionForFloatIncludingMargin
+@include block.yPositionForFloatIncludingMargin

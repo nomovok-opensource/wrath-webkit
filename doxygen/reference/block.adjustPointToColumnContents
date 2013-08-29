@@ -1,0 +1,5 @@
+@include object.hasColumns
+@include block.columnInfo
+@include block.columnGap
+@include block.columnRectAt
+@include object.isHorizontalWritingMode

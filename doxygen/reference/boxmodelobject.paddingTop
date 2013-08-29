@@ -1,0 +1,3 @@
+@include style.paddingTop
+@include object.containingBlock
+containing block: logical width

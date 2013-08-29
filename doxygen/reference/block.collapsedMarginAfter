@@ -1,0 +1,2 @@
+@include block.maxPositiveMarginAfter
+@include block.maxNegativeMarginAfter

@@ -1,0 +1,4 @@
+@include block.logicalRightOffsetForContent
+m_floatingObjects
+@include style.textIndent
+@include object.containingBlock

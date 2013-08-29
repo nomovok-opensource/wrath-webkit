@@ -1,0 +1,9 @@
+@include block.inlineElementContinuation
+@virtual collapsedMarginBefore
+@virtual collapsedMarginAfter
+@include box.width
+@include box.height
+@include object.hasOverflowClip
+@virtual hasControlClip
+@include block.firstRootBox
+@include object.firstChild

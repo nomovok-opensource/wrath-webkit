@@ -1,0 +1,4 @@
+@include tablecell.collapsedStartBorder
+@include tablecell.collapsedEndBorder
+@include tablecell.collapsedBeforeBorder
+@include tablecell.collapsedAfterBorder

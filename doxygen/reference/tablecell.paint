@@ -1,0 +1,11 @@
+@include style.visibility
+@include box.x
+@include box.y
+@include object.maximalOutlineSize
+@include tablecell.table
+For table(): @include table.outerBorderTop
+For table(): @include table.outerBorderBottom
+@include box.height
+@include box.width
+@include tablecell.paintCollapsedBorder
+@include block.paint

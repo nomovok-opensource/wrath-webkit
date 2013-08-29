@@ -1,0 +1,16 @@
+m_gridRows
+@include tablesection.table
+for table(): @include table.columns
+@include object.maximalOutlineSize
+@include style.isFlippedBlocksWritingMode
+@include style.isHorizontalWritingMode
+@include box.height
+@include box.width
+m_hasOverflowingCell
+m_rowPos
+for table(): @include table.columnPositions
+for table(): @include table.outerBorderStart
+m_hasMultipleCellLevels
+@include tablesection.cellAt
+@include tablesection.primaryCellAt
+@virtual paintCell

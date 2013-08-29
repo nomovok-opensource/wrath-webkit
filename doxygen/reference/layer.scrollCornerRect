@@ -1,0 +1,4 @@
+@include layer.horizontalScrollbar
+@include layer.verticalScrollbar
+Layer::renderer @include style.resize
+Layer::renderer @include box.borderBoxRect

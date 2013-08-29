@@ -1,0 +1,3 @@
+@include tablecell.collapsedStartBorder
+@include tablecell.table
+for table(): @include style.isLeftToRightDirection

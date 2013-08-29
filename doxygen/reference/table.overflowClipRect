@@ -1,0 +1,5 @@
+@include block.overflowClipRect
+m_caption
+@include style.isHorizontalWritingMode
+@include box.height
+@include box.width

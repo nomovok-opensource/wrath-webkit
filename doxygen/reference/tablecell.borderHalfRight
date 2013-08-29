@@ -1,0 +1,9 @@
+@include tablecell.table
+for table(): @include object.style
+for table(): @include style.isHorizontalWritingMode
+for table(): @include style.isLeftToRightDirection
+for table(): @include style.isFlippedBlocksWritingMode
+@include tablecell.borderHalfStart
+@include tablecell.borderHalfEnd
+@include tablecell.borderHalfAfter
+@include tablecell.borderHalfBefore

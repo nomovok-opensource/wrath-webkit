@@ -1,0 +1,10 @@
+@include tablecell.table
+for table(): @include table.collapseBorders
+@include style.emptyCells
+@include object.firstChild
+@include box.width
+@include box.height
+@include boxmodelobject.paintBoxShadow
+@include tablecell.paintBackgroundsBehindCell
+@include style.hasBorder
+@include boxmodelobject.paintBorder

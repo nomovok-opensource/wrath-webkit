@@ -1,0 +1,12 @@
+@virtual paintBoxDecorations
+@virtual paintMask
+@include object.firstChild
+@include box.flipForWritingMode
+@include table.collapseBorders
+@include style.visibility
+@include object.nextInPreOrderAfterChildren
+For table cell children: @include tablecell.collectBorderStyles
+@include object.hasOutline
+@include object.paintOutline
+@include box.width
+@include box.height

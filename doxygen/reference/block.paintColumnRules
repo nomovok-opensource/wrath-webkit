@@ -1,0 +1,17 @@
+@include style.visitedDependentColor
+@include style.columnRuleIsTransparent
+@include style.columnRuleStyle
+@include style.columnRuleWidth
+@include block.columnGap
+@include block.columnInfo
+@include style.isLeftToRightDirection
+@include box.contentLogicalWidth
+@include block.logicalLeftOffsetForContent
+@include block.columnRectAt
+@virtual borderBefore
+@virtual paddingBefore
+@include box.contentWidth
+@virtual borderTop
+@virtual paddingTop
+@include box.contentHeight
+@include object.drawLineForBoxSide

@@ -1,0 +1,2 @@
+@include style.hasOutline
+@include object.hasOutlineAnnotation

@@ -1,0 +1,15 @@
+@virtual borderFitAdjust
+@include boxmodelobject.paintBoxShadow
+@include box.determineBackgroundBleedAvoidance
+TRANSPARENCY LAYER
+@include style.hasAppearance
+@include object.theme
+@include theme.paint
+@include object.isRoot
+@include box.paintRootBoxFillLayers
+@include object.isBody
+@include box.paintFillLayers
+@include theme.paintDecorations
+@include theme.paintBorderOnly
+@include style.hasBorder
+@include boxmodelobject.paintBorder

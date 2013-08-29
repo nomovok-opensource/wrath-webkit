@@ -1,0 +1,6 @@
+@include style.borderFit
+@include block.adjustForBorderFit
+@virtual borderLeft
+@virtual paddingLeft
+@virtual borderRight
+@virtual paddingRight

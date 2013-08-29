@@ -1,0 +1,17 @@
+@include style.isHorizontalWritingMode
+@include style.borderTopWidth
+CSSPropertyBorderTopColor: @include style.visitedDependentColor
+@include style.borderTopStyle
+@include style.borderTopIsTransparent
+@include style.borderRightWidth
+CSSPropertyBorderRightColor: @include style.visitedDependentColor
+@include style.borderRightStyle
+@include style.borderRightIsTransparent
+@include style.borderBottomWidth
+CSSPropertyBorderBottomColor: @include style.visitedDependentColor
+@include style.borderBottomStyle
+@include style.borderBottomIsTransparent
+@include style.borderLeftWidth
+CSSPropertyBorderLeftColor: @include style.visitedDependentColor
+@include style.borderLeftStyle
+@include style.borderLeftIsTransparent

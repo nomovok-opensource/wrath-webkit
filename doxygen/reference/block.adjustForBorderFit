@@ -1,0 +1,6 @@
+@include style.visibility
+@include object.childrenInline
+positions and dimensions of: @include block.firstRootBox
+positions and dimensions of: @include box.firstChildBox
+m_floatingObjects
+@include block.xPositionForFloatIncludingMargin

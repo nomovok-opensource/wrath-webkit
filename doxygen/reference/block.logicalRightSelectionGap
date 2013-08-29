@@ -1,0 +1,2 @@
+@include block.logicalLeftSelectionOffset
+@include block.logicalRightSelectionOffset

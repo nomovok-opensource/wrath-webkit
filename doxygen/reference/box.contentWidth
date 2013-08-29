@@ -1,0 +1,3 @@
+@include box.clientWidth
+@virtual paddingLeft
+@virtual paddingRight

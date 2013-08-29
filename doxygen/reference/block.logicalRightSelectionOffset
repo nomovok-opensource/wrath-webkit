@@ -1,0 +1,4 @@
+@include block.logicalRightOffsetForLine
+@include block.logicalRightOffsetForContent
+@include object.containingBlock
+@include box.logicalTop

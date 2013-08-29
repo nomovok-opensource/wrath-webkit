@@ -1,0 +1,15 @@
+@include style.visibility
+@include tablecell.table
+for table(): @include table.collapseBorders
+@include style.emptyCells
+@include object.firstChild
+@include box.x
+@include box.y
+@include box.width
+@include box.height
+for background object: @include style.visitedDependentColor
+for background object: @include style.backgroundLayers
+for background object: @include object.hasLayer
+@include object.parent
+NORMAL CLIP used
+@include box.paintFillLayers

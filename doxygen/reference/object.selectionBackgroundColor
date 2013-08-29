@@ -1,0 +1,6 @@
+@include style.userSelect
+@include object.getUncachedPseudoStyle
+For uncached pseudo style: @include style.visitedDependentColor
+frame()->selection()->isFocusedAndActive()
+theme()->activeSelectionBackgroundColor()
+theme()->inactiveSelectionBackgroundColor()

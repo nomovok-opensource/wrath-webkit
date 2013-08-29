@@ -1,0 +1,5 @@
+@include style.writingMode
+@include style.borderBottom
+@include style.borderTop
+@include style.borderRight
+@include style.borderLeft

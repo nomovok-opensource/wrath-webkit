@@ -1,0 +1,7 @@
+m_caption
+m_caption: logicalHeight()
+m_caption: marginBefore()
+m_caption: marginAfter()
+m_caption: @include style.captionSide
+@include style.isFlippedBlocksWritingMode
+@include style.isHorizontalWritingMode

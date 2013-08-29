@@ -1,0 +1,4 @@
+m_hasColElements
+@include object.firstChild
+m_caption
+@include table.nextColElement

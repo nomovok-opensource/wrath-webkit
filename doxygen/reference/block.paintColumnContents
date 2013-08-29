@@ -1,0 +1,9 @@
+@include block.columnInfo
+@include block.columnRectAt
+@include box.flipForWritingMode
+@include object.isHorizontalWritingMode
+@include block.logicalLeftOffsetForContent
+NORMAL CLIP used
+@include block.paintFloats
+@include block.paintContents
+@include style.isFlippedBlocksWritingMode

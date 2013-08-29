@@ -1,0 +1,5 @@
+@include style.visibility
+@include box.width
+@include box.height
+@virtual borderFitAdjust
+@include box.paintMaskImages

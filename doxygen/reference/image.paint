@@ -1,0 +1,4 @@
+@include replaced.paint
+document()->focusedNode()
+@include object.node
+document()->focusedNode()->computedStyle()->outlineWidth()

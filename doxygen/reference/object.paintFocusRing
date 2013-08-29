@@ -1,0 +1,6 @@
+@virtual addFocusRingRects
+@include style.outlineStyleIsAuto
+@include style.outlineWidth
+@include style.outlineOffset
+CSSPropertyOutlineColor: @include style.visitedDependentColor
+@include object.addPDFURLRect

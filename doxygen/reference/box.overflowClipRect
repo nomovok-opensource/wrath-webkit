@@ -1,0 +1,9 @@
+@virtual borderLeft
+@virtual borderTop
+@virtual borderRight
+@virtual borderBottom
+@include box.width
+@include box.height
+@include boxmodelobject.layer
+@include layer.verticalScrollbarWidth
+@include layer.horizontalScrollbarHeight

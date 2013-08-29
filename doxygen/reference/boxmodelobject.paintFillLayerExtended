@@ -1,0 +1,26 @@
+@include style.hasBorderRadius
+@include object.hasOverflowClip
+@include object.isRoot
+@include style.effectiveZoom
+@include style.forceBackgroundsToWhite
+@include boxmodelobject.getBackgroundRoundedRect
+ROUNDED RECT CLIP used
+@virtual borderLeft
+@virtual borderRight
+@virtual paddingLeft
+@virtual paddingRight
+NORMAL CLIP used
+@include layer.scrolledContentOffset
+@include layer.scrollWidth
+@virtual borderTop
+@include layer.scrollHeight
+@virtual borderBottom
+@virtual paddingTop
+@virtual paddingBottom
+NORMAL CLIP used
+call paint() on InlineTextBoxes with a PaintInfo that makes them just add their contents to the clip
+CLIP TO IMAGE BUFFER used
+@include view.frameView
+document()->ownerElement
+document()->body
+@include boxmodelobject.calculateBackgroundImageGeometry

@@ -1,0 +1,5 @@
+@include table.collapseBorders
+m_foot
+@include object.lastChild
+children table sections: @include tablesection.outerBorderAfter
+@include style.borderAfter

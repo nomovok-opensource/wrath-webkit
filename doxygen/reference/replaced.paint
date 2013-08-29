@@ -1,0 +1,17 @@
+@include replaced.shouldPaint
+@include box.x
+@include box.y
+@include object.hasBoxDecorations
+@virtual paintBoxDecorations
+@virtual paintMask
+@include style.outlineWidth
+@include object.paintOutline
+@include object.selectionState
+@include style.hasBorderRadius
+@include box.width
+@include box.height
+ROUNDED RECT CLIP used
+@virtual paintReplaced
+@include replaced.localSelectionRect
+@include object.selectionBackgroundColor
+@include style.colorSpace

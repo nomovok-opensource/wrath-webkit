@@ -1,0 +1,6 @@
+@include style.isHorizontalWritingMode
+@include style.isLeftToRightDirection
+@include style.borderRight
+@include style.borderLeft
+@include style.borderBottom
+@include style.borderTop

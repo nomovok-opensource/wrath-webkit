@@ -1,0 +1,15 @@
+@include style.backgroundColor
+@include style.borderLeftColor
+@include style.borderLeftStyle
+@include style.borderRightColor
+@include style.borderRightStyle
+@include style.borderTopColor
+@include style.borderTopStyle
+@include style.borderBottomColor
+@include style.borderBottomStyle
+@include style.color
+@include style.outlineColor
+@include style.columnRuleColor
+@include style.textEmphasisColor
+@include style.textFillColor
+@include style.textStrokeColor

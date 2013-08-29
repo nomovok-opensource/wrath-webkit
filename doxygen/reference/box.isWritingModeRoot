@@ -1,0 +1,2 @@
+@include style.writingMode
+for parent: @include style.writingMode

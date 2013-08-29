@@ -1,0 +1,4 @@
+@include style.borderLeftStyle
+@include style.borderRightStyle
+@include style.borderTopStyle
+@include style.borderBottomStyle

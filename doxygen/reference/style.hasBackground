@@ -1,0 +1,2 @@
+CSSPropertyBackgroundColor: @include style.visitedDependentColor
+@include style.hasBackgroundImage

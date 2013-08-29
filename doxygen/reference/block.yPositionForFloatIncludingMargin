@@ -1,0 +1,2 @@
+@include object.isHorizontalWritingMode
+@include block.marginBeforeForChild

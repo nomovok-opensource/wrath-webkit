@@ -1,0 +1,3 @@
+Layer::m_isNormalFlowOnly
+@include object.hasReflection
+@include object.hasMask

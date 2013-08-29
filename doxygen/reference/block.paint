@@ -1,0 +1,12 @@
+@include box.x
+@include box.y
+@include object.isRoot
+@include box.visualOverflowRect
+@include box.flipForWritingMode
+@include object.maximalOutlineSize
+@include box.pushContentsClip
+@virtual paintObject
+@include box.popContentsClip
+@include object.hasOverflowClip
+@include style.visibility
+@include layer.paintOverflowControls

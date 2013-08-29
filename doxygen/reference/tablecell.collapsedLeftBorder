@@ -1,0 +1,8 @@
+@include tablecell.table
+For table()->style(): @include style.isHorizontalWritingMode
+For table()->style(): @include style.isLeftToRightDirection
+For table()->style(): @include style.isFlippedBlocksWritingMode
+@include tablecell.collapsedStartBorder
+@include tablecell.collapsedEndBorder
+@include tablecell.collapsedAfterBorder
+@include tablecell.collapsedBeforeBorder

@@ -1,0 +1,2 @@
+@include block.paddingAfter
+@include tablecell.intrinsicPaddingAfter

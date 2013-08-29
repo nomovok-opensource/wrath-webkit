@@ -1,0 +1,4 @@
+@include object.selectionState
+@include object.selectionStartEnd
+@include object.node
+node()->childNodeCount()

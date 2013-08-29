@@ -1,0 +1,2 @@
+@include object.isInline
+@include object.isReplaced

@@ -1,0 +1,13 @@
+Layer::m_hBar
+Layer::m_vBar
+@include object.hasOverflowClip
+@include style.resize
+Layer::renderer
+Layer::renderer @include box.borderBoxRect
+@include layer.scrollCornerRect
+Layer::renderer @include box.x
+Layer::renderer @include box.y
+Layer::renderer @include box.width
+Layer::renderer @include box.height
+Layer::m_scrollCorner
+Layer::m_resizer
